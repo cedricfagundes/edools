@@ -2,7 +2,7 @@
 //**************************************
 //* Trabalho 1 de Estrutura de Dados I
 //* Curso de Sistemas da informacao
-//* Aluno: Cedric Fagundes dos Santos - matricula: 0050008673
+//* Aluno: Cedric Fagundes dos Santos
 //* Pesquisa Eleitoral
 //***************************************
 
@@ -114,7 +114,7 @@ int main()
 		printf("\n**************************************");
 		printf("\n* Trabalho 1 de Estrutura de Dados I");
 		printf("\n* Curso de Sistemas da informacao");
-		printf("\n* Aluno: Cedric Fagundes - matricula: 0050008673");
+		printf("\n* Aluno: Cedric Fagundes");
 		printf("\n* Pesquisa Eleitoral");
 		printf("\n***************************************");
 
@@ -124,7 +124,7 @@ int main()
 		printf("\n1- Dilma Roussef");
 		printf("\n2- Marina Silva");
 		printf("\n3- Aecio neves");
-		printf("\n4- Cedric Fagundes 0050008673");
+		printf("\n4- Cedric Fagundes");
 		printf("\n5- Nulo");
 		printf("\n6- Indeciso");
 		printf("\nEntre com seu voto ==> ");
